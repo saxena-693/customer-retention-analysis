@@ -214,8 +214,13 @@ Execute in order:
 💡 Interested in Data Analytics, Machine Learning & Business Intelligence <br>
 
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini%20Saxena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-saxena-codes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-purple?style=for-the-badge&logo=netlify)](https://nandinisaxena.netlify.app/)
+  <a href="https://www.linkedin.com/in/nandini-saxena-codes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nandini%20Saxena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://nandinisaxena.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">✨If you found this project insightful, consider giving it a star✨</p>
