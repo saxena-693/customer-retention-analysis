@@ -211,10 +211,12 @@ Execute in order:
 
 **Nandini Saxena** <br>
 🎓 B.Tech (Computer Science & Engineering) <br>
-💡 Interested in Data Analytics, Machine Learning & Business Intelligence
+💡 Interested in Data Analytics, Machine Learning & Business Intelligence <br>
 
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nandini%20Saxena-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-saxena-codes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-purple?style=for-the-badge&logo=netlify)](https://nandinisaxena.netlify.app/)
+</p>
 
 <p align="center">✨If you found this project insightful, consider giving it a star✨</p>
 
