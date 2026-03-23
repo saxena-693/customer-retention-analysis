@@ -131,6 +131,13 @@ The analysis revealed clear churn patterns:
 These insights directly guide retention strategies.
 
 ---
+## 📸Dashboard Preview
+
+![ChurnSense Dashboard](ChurnSense_Dashboard.png)
+
+> 🔵Built with Power BI · Dark theme · Interactive filters by Contract & Internet Service <br>
+
+---
 
 ## 🤖Machine Learning Results
 
