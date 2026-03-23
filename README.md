@@ -113,6 +113,9 @@ customer-retention-analysis/
 ├── 03_Churn_Analysis.ipynb    #Cohort analysis & root cause insights
 ├── 04_Prediction_Model.ipynb  #ML models (Logistic Regression, Random Forest)
 ├── churn_clean.csv            #Clean dataset for Power BI dashboard
+├── ChurnSense_Dashboard.pbix  #Interactive Power BI dashboard
+├── ChurnSense_Dashboard.png   #Dashboard preview screenshot
+├── ChurnSense_Playbook.pptx   #Business presentation & recommendations
 └── README.md
 ```
 
