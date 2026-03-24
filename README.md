@@ -216,6 +216,13 @@ Execute in order:
 ✤ Translating analysis into business strategy<br>
 
 ---
+## 🔮Future Improvements
+
+✤ Deploy model as API <br>
+✤ Real-time dashboard integration <br>
+✤ Automated churn alerts <br>
+
+---
 
 ## 👩‍💻Author
 
